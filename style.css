@@ -1,0 +1,43 @@
+h1{
+    color: rgb(0, 0, 0);
+    margin-left: 400px;
+}
+
+
+.bodying {
+    border:solid;
+    background-color: cyan;
+}
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+
+}
+.grid{
+    border: 2px solid black;
+    border-radius: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p,h3{
+    text-align: center;
+}
+a:link{
+    color: yellow;
+}
+a:visited{
+    color:white;
+}
+.menu{
+    margin-right: 30px;
+    
+}
+.origami{
+    border-radius: 20px;
+    background-color: rgb(255, 0, 140);
+    width: 310px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
